@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Manish Manda</h1>
+\<h1 align="center">Hi 👋, I'm Manish Manda</h1>
 <h3 align="center">I am passionate about Full Stack Development and Machine Learning</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manishmanda&label=Profile%20views&color=0e75b6&style=flat" alt="manishmanda" /> </p>
@@ -15,6 +15,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://linkedin.com/in/manishmanda29" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="manishmanda29" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
