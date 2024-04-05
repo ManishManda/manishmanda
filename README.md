@@ -1,3 +1,4 @@
+<img src="https://www.canva.com/design/DAGBkziTqJY/bncsvJfIZUgV5icX7WsEOA/edit?utm_content=DAGBkziTqJY&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton">
 <h1 align="center">Hi 👋, I'm Manish Manda</h1>
 <h3 align="center">I am passionate about Full Stack Development and Machine Learning</h3>
 
