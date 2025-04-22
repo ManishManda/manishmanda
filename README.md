@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=manishmanda" alt="manishmanda" /></a> </p>
 
-- 🔭 I’m currently working on **AI-ML**
+- 🔭 I’m currently working on **Full stack web Dveelopment and AI-ML**
 
 - 👯 I’m looking to collaborate on **Machine learning**
 
